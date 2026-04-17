@@ -3,7 +3,7 @@ import { Instagram, Facebook, MessageCircle, Phone, MapPin } from "lucide-react"
 import { ADDRESS, telLink, waLink, SOCIALS } from "@/lib/contact";
 
 const Footer = () => (
-  <footer className="bg-card border-t border-border pt-14 pb-8">
+  <footer className="bg-secondary border-t border-border pt-14 pb-8">
     <div className="container-px max-w-7xl mx-auto grid gap-10 md:grid-cols-3">
       <div>
         <div className="flex items-center gap-2 mb-4">
