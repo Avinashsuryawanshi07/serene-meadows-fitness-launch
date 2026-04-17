@@ -11,7 +11,7 @@ export const waLink = (msg = "Hi, I want to book a fitness consultation with GO 
 export const telLink = `tel:${PHONE_INTL}`;
 
 export const SOCIALS = {
-  instagram: "https://instagram.com/",
+  instagram: "https://www.instagram.com/ajinkya.sangle/",
   facebook: "https://facebook.com/",
   whatsapp: waLink(),
 };
