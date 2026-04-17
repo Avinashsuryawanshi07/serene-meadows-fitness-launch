@@ -5,9 +5,9 @@ import { telLink, waLink } from "@/lib/contact";
 const Hero = () => (
   <section className="relative min-h-[100svh] flex items-center overflow-hidden pt-20">
     <div className="absolute inset-0">
-      <img src={heroImg} alt="Intense workout at GO FIT Nashik" className="w-full h-full object-cover object-center" width={1280} height={1600} />
-      <div className="absolute inset-0 bg-gradient-to-b from-background/80 via-background/60 to-background" />
-      <div className="absolute inset-0 bg-gradient-to-r from-background via-background/50 to-transparent" />
+      <img src={heroImg} alt="Man and woman training together at GO FIT Nashik" className="w-full h-full object-cover object-center" width={1280} height={1600} />
+      <div className="absolute inset-0 bg-gradient-to-r from-background via-background/85 to-background/30" />
+      <div className="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent" />
     </div>
 
     <div className="relative container-px max-w-7xl mx-auto py-16 md:py-24">
