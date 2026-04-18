@@ -13,7 +13,8 @@ import Contact from "@/components/sections/Contact";
 
 const Index = () => (
   <div className="min-h-screen bg-background text-foreground">
-    <Header />
+    <h1>Contact Support</h1>
+    {/* <Header />
     <main>
       <Hero />
       <Services />
@@ -26,7 +27,7 @@ const Index = () => (
       <Contact />
     </main>
     <Footer />
-    <FloatingWhatsApp />
+    <FloatingWhatsApp /> */}
   </div>
 );
 
